@@ -6,7 +6,7 @@
  - I'm looking to collabrate projects in nepali market 
  
  ### Tech Stack
-<img src="https://user-images.githubusercontent.com/96978659/153031097-b07094bf-6aab-4d16-bf77-deb48be07f01.jpg" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/96978659/153031097-b07094bf-6aab-4d16-bf77-deb48be07f01.jpg" />
 
 
 
