@@ -6,6 +6,6 @@
  - I'm looking to collabrate projects in nepali market 
  
  Tech Stack
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOFOrxqm61nf2fg3VPlzuM59S0mBugqfawg&usqp=CAU" />
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOFOrxqm61nf2fg3VPlzuM59S0mBugqfawg&usqp=CAU" width="300" />
 
 
