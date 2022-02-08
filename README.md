@@ -6,9 +6,6 @@
  - I'm looking to collabrate projects in nepali market 
  
  ### Tech Stack
- <svg width="5cm" height="4cm" version="1.1"
-     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <image href="firefox.jpg" x="0" y="0" height="50px" width="50px"/>
-</svg>
+<img src="C:\Users\dell\Desktop\PaudelSworup-main\tech.jpg" />
 
 
