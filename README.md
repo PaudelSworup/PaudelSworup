@@ -5,8 +5,7 @@
  - 🤓 I'm Currently Learning and  Working on Android and React.
  - I'm looking to collabrate projects in nepali market 
  
- # Tech Stack
- 
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOFOrxqm61nf2fg3VPlzuM59S0mBugqfawg&usqp=CAU" width="300" />
+ ### Tech Stack
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOFOrxqm61nf2fg3VPlzuM59S0mBugqfawg&usqp=CAU" width="300" height="300" /><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXxrQxJDL76FyW-SjrhcpJF3kiHAnXRFmcCA&usqp=CAU"  width="300" height="300"/>
 
 
