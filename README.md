@@ -18,7 +18,9 @@
 <hr>
  
 🔧 <b>My Skills</b>
+<div>
 <img src="https://user-images.githubusercontent.com/96978659/153031097-b07094bf-6aab-4d16-bf77-deb48be07f01.jpg" />
+</div>
 
 
 
