@@ -1,5 +1,5 @@
  # Hello and Namaste, It's Me Sworup paudel from Nepal! 👋
- <hr>
+
  🚹 <B>Basic Information</B>
  <ul>
  <li>I'm Web Developer and a Student. Currently pursuing my BCA degree at kathmandu College of Technology.</li>
