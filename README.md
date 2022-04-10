@@ -10,7 +10,7 @@
  <hr>
  
  
-⭐Latest Project
+⭐ <B>Latest Project</B>
 <ul>
  <li><a href="https://custom-disney.web.app/">click me to see Disney clone</a></li>
 </ul>
