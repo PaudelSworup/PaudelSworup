@@ -2,7 +2,7 @@
  <hr>
  🚹 <B>Basic Information</B>
  <ul>
- <li>I'm Web Developer and a Student.Currently pursuing my BCA degree at kathmandu College of Technology.</li>
+ <li>I'm Web Developer and a Student. Currently pursuing my BCA degree at kathmandu College of Technology.</li>
  <li>🤓 I'm Currently Learning and Working on Android and React on my College projects.</li>
  <li>👯 I'm looking to collaborate projects in nepali market</li>
  </ul>
