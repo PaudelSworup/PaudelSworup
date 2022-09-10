@@ -12,7 +12,8 @@
  
 ⭐ <B>Latest Project</B>
 <ul>
- <li><a href="https://custom-disney.web.app/">click me to see Disney clone</a></li>
+ <li><a href="https://custom-disney.web.app/" target="_blank">click me to see Disney clone</a></li>
+ <li><a href="https://cute-pudding-397feb.netlify.app/" target="_blank">See Weather Today</a></li>
 </ul>
 
 <hr>
