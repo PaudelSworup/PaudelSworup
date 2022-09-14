@@ -15,6 +15,7 @@
  <li><a href="https://custom-disney.web.app/" target="_blank">click me to see Disney clone</a></li>
  <li><a href="https://cute-pudding-397feb.netlify.app/" target="_blank">See Today's Weather</a></li>
  <li><a href="https://beautiful-faloodeh-7bb01a.netlify.app/" target="_blank">Auto Image Slider</a></li>
+ <li><a href="https://watchfootballhighlights.netlify.app/" target="_blank">Watch football highlights</a></li>
 </ul>
 
 <hr>
