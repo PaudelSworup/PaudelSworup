@@ -17,7 +17,7 @@
  <li><a href="https://beautiful-faloodeh-7bb01a.netlify.app/" target="_blank">Auto Image Slider</a></li>
  <li><a href="https://watchfootballhighlights.netlify.app/" target="_blank">Watch football highlights</a></li>
  <li><a href="https://hulu-clone-puce-ten.vercel.app/" target="_blank">Watch Hulu-clone</a></li>
- <li><a href="https://netflix-theta-ochre.vercel.app/"  target="_blank">Watch Netflix clone</a></li>
+ <li><a href="https://netflix-c.vercel.app/"  target="_blank">Watch Netflix clone</a></li>
 </ul>
 
 <hr>
