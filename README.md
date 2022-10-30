@@ -8,12 +8,13 @@
  </ul>
  
  <hr>
- 
+
  
 ⭐ <B>Latest Project</B>
 <ul>
  <li><a href="https://custom-disney.web.app/" target="_blank">click me to see Disney clone</a></li>
  <li><a href="https://watch-weather.netlify.app/" target="_blank">See Today's Weather</a></li>
+  <li><a href=" https://game-trailer.vercel.app/" target="_blank">Watch Latest Game Trailer</a></li>
  <li><a href="https://image-slides.netlify.app/" target="_blank">Auto Image Slider</a></li>
  <li><a href="https://watchfootballhighlights.netlify.app/" target="_blank">Watch football highlights</a></li>
  <li><a href="https://hulu-clone-puce-ten.vercel.app/" target="_blank">Watch Hulu-clone</a></li>
