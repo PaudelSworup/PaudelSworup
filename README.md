@@ -4,8 +4,8 @@
  <ul>
  <li>I'm Web Developer and a Student. Currently pursuing my BCA degree at kathmandu College of Technology.</li>
  <li>🤓 I'm Currently Learning and Working on Android and React and Node on my College projects.</li>
- <li>🤓 I'm Currently Learning and Working on some Nodejs stuff and Chrome extension</li>
- <li>👯 I'm looking to collaborate projects in nepali market</li>
+ <li>🤓 I'm Currently Learning and Working on some Nodejs stuff and Chrome extension.</li>
+ <li>👯 I'm looking to collaborate projects in nepali market.</li>
  </ul>
  
  <hr>
