@@ -2,7 +2,7 @@
 
  🚹 <B>Basic Information</B>
  <ul>
- <li>I'm Web Developer and a Learner. currently Finished my Bachelor on Computer Applications</li>
+ <li>I'm Web Developer and a Learner. Currently finished my Bachelor on Computer Applications</li>
  <li>🤓 I'm Currently Working on Online library system with Recommendation using MERN stack.</li>
  <li>🤓 I'm am Learning Android application developement.</li>
  <li>👯 I'm looking to collaborate projects in nepali market.</li>
@@ -26,7 +26,8 @@
  
 🔧 <b>My Skills</b>
 <div>
-<img src="https://user-images.githubusercontent.com/96978659/153031097-b07094bf-6aab-4d16-bf77-deb48be07f01.jpg" />
+<!-- <img src="https://user-images.githubusercontent.com/96978659/153031097-b07094bf-6aab-4d16-bf77-deb48be07f01.jpg /> -->
+<img src="https://img.icons8.com/?size=48&id=20909&format=png" />
  
 </div>
 
