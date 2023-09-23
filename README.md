@@ -27,7 +27,7 @@
 🔧 <b>My Skills</b>
 <div>
 <!-- <img src="https://user-images.githubusercontent.com/96978659/153031097-b07094bf-6aab-4d16-bf77-deb48be07f01.jpg /> -->
-<img src="https://img.icons8.com/?size=48&id=20909&format=png" width="100" height="100" />
+<img src="https://img.icons8.com/?size=48&id=20909&format=png" width="70" height="70" />
 <img src="https://img.icons8.com/?size=80&id=YjeKwnSQIBUq&format=png" />
  <img src="https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png" />
   <img src="https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png" />
