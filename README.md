@@ -28,7 +28,7 @@
 <hr>
  
 🔧 <b>My Skills</b>
-<div>
+<div style="display:flex; justify-content:center; align-items:center;">
 <img src="https://img.icons8.com/?size=48&id=20909&format=png" width="70" height="70" />
 <img src="https://img.icons8.com/?size=80&id=YjeKwnSQIBUq&format=png" width="70" height="70" />
  <img src="https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png" width="70" height="70" />
