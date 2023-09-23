@@ -2,7 +2,7 @@
 
  🚹 <B>Basic Information</B>
  <ul>
- <li>I'm Web Developer and a Student. Currently pursuing my BCA degree at kathmandu College of Technology.</li>
+ <li>I'm Web Developer and a Learner. currently Finished my Bachelor on Computer Applications</li>
  <li>🤓 I'm Currently Working on Online library system with Recommendation using MERN stack.</li>
  <li>🤓 I'm am Learning Android application developement.</li>
  <li>👯 I'm looking to collaborate projects in nepali market.</li>
