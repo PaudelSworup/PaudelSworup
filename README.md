@@ -14,8 +14,9 @@
 ⭐ <B>Projects</B>
 <details>
 <ul>
+<li><a href="https://sworup-kc.vercel.app" target="_blank">Link to portfolio</a></li>
  <li><a href="https://custom-disney.web.app/" target="_blank">Disney clone</a></li>
- <li><a href="https://watch-weather.netlify.app/" target="_blank">Weather APp</a></li>
+ <li><a href="https://watch-weather.netlify.app/" target="_blank">Weather App</a></li>
  <li><a href="https://game-trailer.vercel.app/" target="_blank">Game Trailer App</a></li>
  <li><a href="https://image-slides.netlify.app/" target="_blank">Auto Image Slider</a></li>
  <li><a href="https://watchfootballhighlights.netlify.app/" target="_blank">Football Highlights App</a></li>
@@ -28,7 +29,6 @@
  
 🔧 <b>My Skills</b>
 <div>
-<!-- <img src="https://user-images.githubusercontent.com/96978659/153031097-b07094bf-6aab-4d16-bf77-deb48be07f01.jpg /> -->
 <img src="https://img.icons8.com/?size=48&id=20909&format=png" width="70" height="70" />
 <img src="https://img.icons8.com/?size=80&id=YjeKwnSQIBUq&format=png" width="70" height="70" />
  <img src="https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png" width="70" height="70" />
