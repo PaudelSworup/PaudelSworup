@@ -14,13 +14,13 @@
 ⭐ <B>Projects</B>
 <details>
 <ul>
- <li><a href="https://custom-disney.web.app/" target="_blank">click me to see Disney clone</a></li>
- <li><a href="https://watch-weather.netlify.app/" target="_blank">See Today's Weather</a></li>
- <li><a href="https://game-trailer.vercel.app/" target="_blank">Watch Latest Game Trailer</a></li>
+ <li><a href="https://custom-disney.web.app/" target="_blank">Disney clone</a></li>
+ <li><a href="https://watch-weather.netlify.app/" target="_blank">Weather APp</a></li>
+ <li><a href="https://game-trailer.vercel.app/" target="_blank">Game Trailer App</a></li>
  <li><a href="https://image-slides.netlify.app/" target="_blank">Auto Image Slider</a></li>
- <li><a href="https://watchfootballhighlights.netlify.app/" target="_blank">Watch football highlights</a></li>
- <li><a href="https://hulu-clone-puce-ten.vercel.app/" target="_blank">Watch Hulu-clone</a></li>
- <li><a href="https://netflix-c.vercel.app/"  target="_blank">Watch Netflix clone</a></li>
+ <li><a href="https://watchfootballhighlights.netlify.app/" target="_blank">Football Highlights App</a></li>
+ <li><a href="https://hulu-clone-puce-ten.vercel.app/" target="_blank">Hulu-Clone</a></li>
+ <li><a href="https://netflix-c.vercel.app/"  target="_blank">Netflix clone</a></li>
 </ul>
 </details>
 
