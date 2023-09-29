@@ -45,7 +45,7 @@
  
  <img src="https://img.icons8.com/?size=64&id=JAOzEPu9w5iE&format=png" width="70" height="70" />
  
- <img src=" https://img.icons8.com/?size=80&id=hYoELNwniGhi&format=png" width="70" height="70" />
+ <img src="https://img.icons8.com/?size=80&id=hYoELNwniGhi&format=png" width="70" height="70" />
  
 <img src="https://img.icons8.com/?size=48&id=74402&format=png" width="70" height="70" />
 
