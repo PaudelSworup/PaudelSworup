@@ -36,7 +36,7 @@
 <img src="https://img.icons8.com/?size=48&id=108784&format=png" />
  <img src="https://img.icons8.com/?size=80&id=wPohyHO_qO1a&format=png" width="70" height="70" />
 <img src="https://img.icons8.com/?size=48&id=54087&format=png" width="70" height="70" />
- <img src="https://img.icons8.com/?size=50&id=39858&format=png" />
+ <img src="https://img.icons8.com/?size=64&id=JAOzEPu9w5iE&format=png" />
 <img src="https://img.icons8.com/?size=48&id=74402&format=png" width="70" height="70" />
 <img src="https://img.icons8.com/?size=80&id=114425&format=png" width="70" height="70" />
 
