@@ -9,7 +9,7 @@
  <ul>
  <li>Web Developer and Learner</li>
  <li>🤓 I'm Currently Working as a React Developer.</li>
- <li>🤓 I'm am Learning Android application developement.</li>
+ <li>🤓 I'm am Learning Mobile application developement.</li>
  <li>👯 I'm looking to collaborate projects in nepali market.</li>
  </ul>
  
