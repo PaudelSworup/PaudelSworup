@@ -59,7 +59,7 @@
 <img src="https://img.icons8.com/?size=48&id=74402&format=png" width="70" height="70" />
 
 <img src="https://img.icons8.com/?size=80&id=114425&format=png" width="70" height="70" />
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*Yxr8ZeUl49xbUl1S4TA5oQ.png" width="70" height="70" />
+<img src="https://img.icons8.com/?size=48&id=123603&format=png" width="70" height="70" />
 
  
 </div>
