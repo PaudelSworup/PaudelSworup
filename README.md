@@ -17,7 +17,7 @@
 
  
 ⭐ <B>Projects</B>
-<details>
+
 <ul>
 <li><a href="https://sworup-kc.vercel.app" target="_blank">Link to portfolio</a></li>
  <li><a href="https://custom-disney.web.app/" target="_blank">Disney clone</a></li>
@@ -28,7 +28,7 @@
  <li><a href="https://hulu-clone-puce-ten.vercel.app/" target="_blank">Hulu-Clone</a></li>
  <li><a href="https://netflix-c.vercel.app/"  target="_blank">Netflix clone</a></li>
 </ul>
-</details>
+
 
 <hr>
  
