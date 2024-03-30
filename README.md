@@ -26,7 +26,6 @@
  <li><a href="https://watch-weather.netlify.app/" target="_blank">Weather App</a></li>
  <p>description:Discover weather updates easily with my simple app! It's made with HTML, CSS, and JS, using the OpenWeatherMap API for accurate forecasts.</p>
  <li><a href="https://game-trailer.vercel.app/" target="_blank">Game Trailer App</a></li>
- <li><a href="https://image-slides.netlify.app/" target="_blank">Auto Image Slider</a></li>
  <li><a href="https://watchfootballhighlights.netlify.app/" target="_blank">Football Highlights App</a></li>
  <li><a href="https://hulu-clone-puce-ten.vercel.app/" target="_blank">Hulu-Clone</a></li>
 </ul>
