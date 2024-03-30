@@ -20,6 +20,7 @@
 
 <ul>
 <li><a href="https://sworup-kc.vercel.app" target="_blank">Link to portfolio</a></li>
+ <p>description</p>
  <li><a href="https://custom-disney.web.app/" target="_blank">Disney clone</a></li>
  <li><a href="https://watch-weather.netlify.app/" target="_blank">Weather App</a></li>
  <li><a href="https://game-trailer.vercel.app/" target="_blank">Game Trailer App</a></li>
