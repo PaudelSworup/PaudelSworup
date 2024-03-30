@@ -31,6 +31,10 @@
  <p>description:Experience football highlights instantly! My app, made with HTML, CSS, and JS, uses the ScoreBat API to bring you the best moments.</p>
  <li><a href="https://hulu-clone-puce-ten.vercel.app/" target="_blank">Hulu-Clone</a></li>
  <p>description:Check out my Hulu-like website! Made with Next.js and the TMDB API, it's your one-stop-shop for streaming your favorite shows and movies.</p>
+ <li><a href="https://github.com/PaudelSworup/UI_Challenge"/>React Native UI challange</li>
+  <p>description:Explore my React Native UI challenge repo on GitHub! Discover sleek and intuitive designs crafted to inspire and innovate.</p>
+  <li><a href="https://github.com/PaudelSworup/ecommerce"/>Ecomerce Backend</li>
+   <p>description:Presenting my Node.js eCommerce backend! Built with Express and Mongoose for MongoDB. Check out the repo for a seamless shopping experience.</p>
 </ul>
 
 
