@@ -26,8 +26,11 @@
  <li><a href="https://watch-weather.netlify.app/" target="_blank">Weather App</a></li>
  <p>description:Discover weather updates easily with my simple app! It's made with HTML, CSS, and JS, using the OpenWeatherMap API for accurate forecasts.</p>
  <li><a href="https://game-trailer.vercel.app/" target="_blank">Game Trailer App</a></li>
+ <p>description:Exciting news! I've created a game trailer app using HTML, CSS, JS, and Bootstrap. Get ready to explore game trailers with ease!</p>
  <li><a href="https://watchfootballhighlights.netlify.app/" target="_blank">Football Highlights App</a></li>
+ <p>description:Experience football highlights instantly! My app, made with HTML, CSS, and JS, uses the ScoreBat API to bring you the best moments.</p>
  <li><a href="https://hulu-clone-puce-ten.vercel.app/" target="_blank">Hulu-Clone</a></li>
+ <p>description:Check out my Hulu-like website! Made with Next.js and the TMDB API, it's your one-stop-shop for streaming your favorite shows and movies.</p>
 </ul>
 
 
