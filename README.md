@@ -26,7 +26,6 @@
  <li><a href="https://image-slides.netlify.app/" target="_blank">Auto Image Slider</a></li>
  <li><a href="https://watchfootballhighlights.netlify.app/" target="_blank">Football Highlights App</a></li>
  <li><a href="https://hulu-clone-puce-ten.vercel.app/" target="_blank">Hulu-Clone</a></li>
- <li><a href="https://netflix-c.vercel.app/"  target="_blank">Netflix clone</a></li>
 </ul>
 
 
