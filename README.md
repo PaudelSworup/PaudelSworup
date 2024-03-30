@@ -22,6 +22,7 @@
 <li><a href="https://sworup-kc.vercel.app" target="_blank">Link to portfolio</a></li>
  <p>description:My portfolio combines Next.js for sleek frontend and Node.js, Express, and MongoDB for a powerful backend. Dynamic, responsive, and efficient, it's the perfect showcase for my work </p>
  <li><a href="https://custom-disney.web.app/" target="_blank">Disney clone</a></li>
+ <p>description:Check out my Disney clone! Built with React.js for the fun front-end and Firebase for smooth backend operations</p>
  <li><a href="https://watch-weather.netlify.app/" target="_blank">Weather App</a></li>
  <li><a href="https://game-trailer.vercel.app/" target="_blank">Game Trailer App</a></li>
  <li><a href="https://image-slides.netlify.app/" target="_blank">Auto Image Slider</a></li>
