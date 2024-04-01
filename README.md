@@ -35,6 +35,8 @@
   <p>description:Explore my React Native UI challenge repo on GitHub! Discover sleek and intuitive designs crafted to inspire and innovate.</p>
   <li><a href="https://github.com/PaudelSworup/ecommerce"/>Ecomerce Backend</li>
    <p>description:Presenting my Node.js eCommerce backend! Built with Express and Mongoose for MongoDB. Check out the repo for a seamless shopping experience.</p>
+   <li><a href="https://github.com/PaudelSworup/ecommerce"/>E-Library Backend</li>
+   <p>description:An e-library built with Node.js, Express, and MongoDB allows admins to manage book requests, including upload, approval, and disapproval. Users can like, rate, and receive recommendations based on collaborative filtering. They can add books to their wishlist and download approved books, with a limit of three requests per day.</p>
 </ul>
 
 
