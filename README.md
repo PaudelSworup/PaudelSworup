@@ -9,7 +9,6 @@
  <ul>
  <li>Web Developer, Mobile App Developer and Learner</li>
  <li>🤓 I'm Currently Working as a React Native Developer.</li>
- <li>🤓 I'm am Learning Mobile application developement with React Native.</li>
  <li>👯 I'm looking to collaborate projects in nepali market.</li>
  </ul>
  
