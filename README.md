@@ -7,7 +7,7 @@
 
  🚹 <B>Basic Information</B>
  <ul>
- <li>Web,Mobile App Developer and Learner from Nepal</li>
+ <li>Web,Mobile App Developer and Learner from Nepal.</li>
  <li>🤓 I'm Currently Working as a React Native Developer.</li>
  <li>👯 I'm looking to collaborate projects in nepali market.</li>
  </ul>
