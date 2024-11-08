@@ -3,13 +3,15 @@
 
 <hr>
 
- # Hello and Namaste, It's Me Sworup paudel from Nepal! 👋
+ # Hello and Namaste, It's Me Sworup Kc from Nepal! 👋
 
  🚹 <B>Basic Information</B>
  <ul>
- <li>Web,Mobile App Developer and Learner from Nepal.</li>
+ <li>A passionate software developer and Learner from Nepal</li>
  <li>🤓 I'm Currently Working as a React Native Developer.</li>
  <li>👯 I'm looking to collaborate projects in nepali market.</li>
+ <li>💬 Ask me about React.js, Node.js, React Native</li>
+  <li>👨‍💻 All of my projects are available at <a href="https://sworup-kc.vercel.app" target="_blank">portfolio</a> </li>
  </ul>
  
  <hr>
@@ -18,8 +20,6 @@
 ⭐ <B>Projects</B>
 
 <ul>
-<li><a href="https://sworup-kc.vercel.app" target="_blank">Link to portfolio</a></li>
- <p>description:My portfolio combines Next.js for sleek frontend and Node.js, Express, and MongoDB for a powerful backend. Dynamic, responsive, and efficient, it's the perfect showcase for my work </p>
  <li><a href="https://custom-disney.web.app/" target="_blank">Disney clone</a></li>
  <p>description:Check out my Disney clone! Built with React.js for the fun front-end and Firebase for smooth backend operations</p>
  <li><a href="https://watch-weather.netlify.app/" target="_blank">Weather App</a></li>
@@ -58,25 +58,27 @@
   <img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png" width="70" height="70" />
  
  <img src="https://img.icons8.com/?size=48&id=nCj4PvnCO0tZ&format=png" width="70" height="70" />
+
+ <img src="https://img.icons8.com/?size=64&id=QEQQKirln6Tf&format=png" width="70" height="70" />
  
 <img src="https://img.icons8.com/?size=48&id=54087&format=png" width="70" height="70" />
  
  <img src="https://img.icons8.com/?size=64&id=JAOzEPu9w5iE&format=png" width="70" height="70" />
  
  <img src="https://img.icons8.com/?size=80&id=hYoELNwniGhi&format=png" width="70" height="70" />
- 
+ <img src="https://img.icons8.com/?size=48&id=62452&format=png" width="70" height="70" />
 <img src="https://img.icons8.com/?size=48&id=74402&format=png" width="70" height="70" />
 
 <img src="https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png" width="70" height="70" />
-
-
-
 <img src="https://img.icons8.com/?size=48&id=pHS3eRpynIRQ&format=png" width="70" height="70" />
-
-
 <img src="https://img.icons8.com/?size=80&id=114425&format=png" width="70" height="70" />
 <img src="https://img.icons8.com/?size=48&id=123603&format=png" width="70" height="70" />
 <img src="https://img.icons8.com/?size=48&id=33039&format=png" width="70" height="70" />
+
+<img src="https://img.icons8.com/?size=48&id=17842&format=png" width="70" height="70" />
+
+
+
 
 
 
