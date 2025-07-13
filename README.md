@@ -11,7 +11,7 @@
  <li>🤓 I'm Currently Working as a React Native Developer.</li>
  <li>👯 I'm looking to collaborate projects in nepali market.</li>
  <li>💬 Ask me about React.js, Node.js, React Native</li>
-  <li>👨‍💻 All of my projects are available at <a href="https://sworup-kc.vercel.app" target="_blank">portfolio</a> </li>
+  <li>👨‍💻 All of my projects are available at <a href="https://sworupkhatri.com.np" target="_blank">portfolio</a> </li>
  </ul>
  
  <hr>
