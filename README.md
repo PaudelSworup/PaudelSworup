@@ -8,6 +8,7 @@
  🚹 <B>Basic Information</B>
  <ul>
  <li>A passionate software developer and Learner from Nepal</li>
+  <li>🤓 I'm Currently Learning Kotlin Android Development with Jetpackcompose.</li>
  <li>🤓 I'm Currently Working as a React Native Developer.</li>
  <li>👯 I'm looking to collaborate projects in nepali market.</li>
  <li>💬 Ask me about React.js, Node.js, React Native</li>
