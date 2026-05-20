@@ -7,8 +7,7 @@
 🚹 <B>Basic Information</B>
 <ul>
   <li>A passionate software developer and Learner from Nepal</li>
-  <li>🤓 I'm Currently Learning Kotlin Android Development with Jetpackcompose.</li>
-  <li>🤓 I'm Currently Working as a Android Developer at Veel Inc.</li>
+=  <li>🤓 I'm Currently Working as an Android Developer at Veel Inc.</li>
   <li>👯 I'm looking to collaborate projects in nepali market.</li>
   <li>💬 Ask me about React.js, Node.js, MERN Stack React Native,  Android Development</li>
   <li>👨‍💻 All of my projects are available at <a href="https://sworupkhatri.com.np" target="_blank">portfolio</a></li>
