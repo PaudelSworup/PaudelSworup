@@ -46,7 +46,7 @@
 ```txt
 From: 26 October 2025 - To: 19 May 2026
 
-Total Time: 834 hrs 18 mins
+Total Time Coded: 834 hrs 18 mins
 
 Kotlin            771 hrs 7 mins        ███████████████████████░░   92.21 %
 Java              31 hrs 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
