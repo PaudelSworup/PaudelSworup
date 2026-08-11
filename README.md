@@ -43,17 +43,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 October 2025 - To: 09 August 2026
+From: 26 October 2025 - To: 10 August 2026
 
-Total Time: 1,148 hrs 5 mins
+Total Time: 1,155 hrs 37 mins
 
-Kotlin                 1,054 hrs 56 mins     ███████████████████████░░   91.73 %
-Java                   42 hrs 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-GraphQL                30 hrs 58 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-XML                    8 hrs 52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Kotlin                 1,062 hrs 9 mins      ███████████████████████░░   91.76 %
+Java                   42 hrs 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+GraphQL                31 hrs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+XML                    8 hrs 54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 Java Properties        2 hrs 30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 TypeScript             2 hrs 25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-TOML                   2 hrs 15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+TOML                   2 hrs 15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 Other                  1 hr 58 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
