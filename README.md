@@ -43,18 +43,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 October 2025 - To: 08 September 2026
+From: 26 October 2025 - To: 09 September 2026
 
-Total Time: 1,257 hrs 41 mins
+Total Time: 1,265 hrs 5 mins
 
-Kotlin                 1,155 hrs 34 mins     ███████████████████████░░   91.74 %
-Java                   44 hrs 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-GraphQL                35 hrs 30 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-XML                    9 hrs 38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Java Properties        2 hrs 49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-TOML                   2 hrs 35 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Kotlin                 1,161 hrs 39 mins     ███████████████████████░░   91.68 %
+Java                   44 hrs 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+GraphQL                35 hrs 45 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+XML                    9 hrs 44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+TOML                   3 hrs 13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Java Properties        2 hrs 52 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 TypeScript             2 hrs 25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Properties             2 hrs 10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Properties             2 hrs 11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
