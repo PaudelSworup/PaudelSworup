@@ -31,9 +31,11 @@
   </a>
 </p>
 <ul>
-  <li>📹 <b>Background video upload</b> so creators can keep working while their videos upload</li>
-  <li>🔴 <b>Go Live</b> features for creators</li>
-  <li>💳 <b>Payment integrations</b>: <b>Khalti</b> and <b>HamroPay</b> for Nepali users, <b>Mercury</b> and <b>Stripe</b> for international users</li>
+  <li>💳 <b>Payments</b>: <b>Khalti</b> and <b>HamroPay</b> for Nepali users, <b>Mercury</b> and <b>Stripe</b> for international users</li>
+  <li>👛 <b>Wallet features</b> for creator earnings and payouts</li>
+  <li>🔴 <b>Go Live campaigns</b>, with live streaming integrated using <b>Amazon IVS</b></li>
+  <li>🤝 <b>Partnership campaigns</b> connecting creators and brands</li>
+  <li>📹 <b>Video upload refactor</b>: reworked the major video upload flow for phase one, replacing the earlier background video upload</li>
   <li>🛠️ Many smaller features, critical bug fixes and enhancements across the app</li>
 </ul>
 
@@ -97,14 +99,6 @@ Properties             2 hrs 12 mins         ░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<hr>
-
-🏆 <B>Trophies</B>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PaudelSworup&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub trophies" />
-</p>
 
 <hr>
 
