@@ -2,7 +2,13 @@
 
 <hr>
 
+<div align="center">
+
 # Hello and Namaste, It's Me Sworup Kc from Nepal! 👋
+
+<img src="https://komarev.com/ghpvc/?username=PaudelSworup&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
 
 🚹 <B>Basic Information</B>
 <ul>
@@ -12,6 +18,39 @@
   <li>💬 Ask me about React.js, Node.js, MERN Stack React Native,  Android Development</li>
   <li>👨‍💻 All of my projects are available at <a href="https://sworupkhatri.com.np" target="_blank">portfolio</a></li>
 </ul>
+
+<hr>
+
+🚀 <B>Currently Building: Veel</B>
+
+<p>I'm an Android Developer at <b><a href="https://play.google.com/store/apps/details?id=com.veel.app&hl=en&pli=1" target="_blank">Veel</a></b>, a creator app and my office product. Some of what I've shipped there:</p>
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.veel.app&hl=en&pli=1" target="_blank">
+    <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get Veel on Google Play" />
+  </a>
+</p>
+<ul>
+  <li>📹 <b>Background video upload</b> so creators can keep working while their videos upload</li>
+  <li>🔴 <b>Go Live</b> features for creators</li>
+  <li>💳 <b>Payment integrations</b>: <b>Khalti</b> and <b>HamroPay</b> for Nepali users, <b>Mercury</b> and <b>Stripe</b> for international users</li>
+  <li>🛠️ Many smaller features, critical bug fixes and enhancements across the app</li>
+</ul>
+
+<p><i>Tech:</i> Kotlin, Jetpack Compose, Apollo GraphQL, Hilt, Clean Architecture</p>
+
+<hr>
+
+📊 <B>GitHub Stats</B>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PaudelSworup&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaudelSworup&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaudelSworup&theme=tokyonight&hide_border=true" alt="Streak stats" />
+</p>
 
 <hr>
 
@@ -61,8 +100,16 @@ Properties             2 hrs 12 mins         ░░░░░░░░░░░�
 
 <hr>
 
+🏆 <B>Trophies</B>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PaudelSworup&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+</p>
+
+<hr>
+
 🔧 <b>My Skills</b>
-<div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:10px;">
+<div align="center">
   <img src="https://img.icons8.com/?size=48&id=20909&format=png" width="70" height="70" />
   <img src="https://img.icons8.com/?size=80&id=YjeKwnSQIBUq&format=png" width="70" height="70" />
   <img src="https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png" width="70" height="70" />
