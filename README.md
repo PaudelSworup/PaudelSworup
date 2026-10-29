@@ -65,11 +65,15 @@ Properties             2 hrs 12 mins         ░░░░░░░░░░░�
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
+
+> 💡 **Note:** These stats reflect my personal GitHub account. Most of my professional development happens in a separate work GitHub account, so these statistics don't fully represent my day-to-day coding activity.
+
 
 ![](https://github-readme-stats.shion.dev/api?username=PaudelSworup&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=PaudelSworup&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PaudelSworup&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
