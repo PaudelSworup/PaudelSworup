@@ -30,7 +30,7 @@ I'm an Android Developer at [**Veel**](https://play.google.com/store/apps/detail
 - 📹 **Background Video Upload Infrastructure**: Built the foundational background video upload service in Phase 1, replacing the previous screen-bound upload flow that was cancelled when the app was closed. Implemented service-based uploads that could continue independently of the screen lifecycle. This service remains the core foundation of the app's video upload functionality today.
 - 💸 **Affiliate Marketing & Video Uploads**: Built affiliate marketing features for creators, including affiliate program integrations, campaign workflows, and video uploads for affiliate-related content.
 - 📊 **Social Media Insights & Analytics**: Built creator analytics features for Facebook, Instagram, YouTube, and TikTok, helping creators track and understand their social media performance.
-- 🛠️ **Feature Development & Bug Fixes**: Delivered smaller features, critical bug fixes, and enhancements across the app.
+- 🛠️ **Feature Development & Bug Fixes**: Delivered features, critical bug fixes, and enhancements across the app.
 
 **How I build:** Kotlin, Jetpack Compose, Apollo GraphQL, Hilt, and Clean Architecture (use cases, repositories, mappers, and MVI-style ViewModels).
 
