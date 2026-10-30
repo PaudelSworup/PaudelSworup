@@ -42,6 +42,26 @@ I'm an Android Developer at [**Veel**](https://play.google.com/store/apps/detail
 
 ---
 
+## 🏗️ My Android Development Stack
+
+| Category | Technologies |
+| --- | --- |
+| Language | Kotlin, Java |
+| UI Development | Jetpack Compose, Material 3 |
+| Architecture | Clean Architecture, MVI, MVVM |
+| Dependency Injection | Hilt |
+| Networking | Apollo GraphQL, REST APIs (HTTP) |
+| Database | Room |
+| Asynchronous Programming | Kotlin Coroutines, Flow |
+| Image Loading | Coil |
+| Background Processing | Android Services, WorkManager |
+| Live Streaming | Amazon IVS |
+| Build & Tooling | Gradle, KSP |
+| Testing & Debugging | JUnit, Android Studio Profiler, Perfetto |
+| API Testing | Postman, Nitro |
+
+---
+
 # ⏱️ WakaTime Stats:
 
 <!--START_SECTION:waka-->
