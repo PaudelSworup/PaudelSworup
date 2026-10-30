@@ -27,7 +27,7 @@ I'm an Android Developer at [**Veel**](https://play.google.com/store/apps/detail
 - 👛 **Wallet & Payouts**: Built wallet features for creator earnings, balance management, and payouts.
 - 🔴 **Go Live Campaigns**: Integrated Amazon IVS for live streaming and built features around creator livestream campaigns.
 - 🤝 **Partnership Campaigns**: Developed campaign features connecting creators and brands.
-- 📹 **Video Upload Refactor**: Reworked the major video upload flow for phase one, replacing the earlier background video upload implementation.
+- 📹 Background Video Upload Infrastructure: Built the foundational background video upload service in Phase 1, replacing the previous screen-bound upload flow that was cancelled when the app was closed. Implemented service-based uploads that could continue independently of the screen lifecycle. This service remains the core foundation of the app's video upload functionality today.
 - 💸 **Affiliate Marketing & Video Uploads**: Built affiliate marketing features for creators, including affiliate program integrations, campaign workflows, and video uploads for affiliate-related content.
 - 📊 **Social Media Insights & Analytics**: Built creator analytics features for Facebook, Instagram, YouTube, and TikTok, helping creators track and understand their social media performance.
 - 🛠️ **Feature Development & Bug Fixes**: Delivered smaller features, critical bug fixes, and enhancements across the app.
