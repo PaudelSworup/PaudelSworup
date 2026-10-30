@@ -90,6 +90,4 @@ Properties             2 hrs 12 mins         ░░░░░░░░░░░�
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=PaudelSworup&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
