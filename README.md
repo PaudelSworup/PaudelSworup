@@ -67,14 +67,14 @@ I'm an Android Developer at [**Veel**](https://play.google.com/store/apps/detail
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 October 2025 - To: 25 November 2026
+From: 26 October 2025 - To: 26 November 2026
 
-Total Time: 1,488 hrs 20 mins
+Total Time: 1,495 hrs 4 mins
 
-Kotlin                 1,358 hrs 7 mins      ██████████████████████▓░░   91.12 %
-Java                   54 hrs 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-GraphQL                47 hrs 4 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-XML                    11 hrs 13 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Kotlin                 1,363 hrs 35 mins     ██████████████████████▓░░   91.08 %
+Java                   55 hrs 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+GraphQL                47 hrs 57 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+XML                    11 hrs 22 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 TOML                   4 hrs 7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 TypeScript             4 hrs 4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 Java Properties        3 hrs 31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
